@@ -1,2 +1,2 @@
 # hello-world
-Beginning
+I am your trainer
